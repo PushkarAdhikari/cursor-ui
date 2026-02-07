@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'cursor_gothicbold_italic';
+    src: url('cursorgothic_bolditalic-s.p.036859cb-webfont.woff2') format('woff2'),
+        url('cursorgothic_bolditalic-s.p.036859cb-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cursor_gothicbold';
+    src: url('cursorgothic_bold-s.p.95169710-webfont.woff2') format('woff2'),
+        url('cursorgothic_bold-s.p.95169710-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cursor_gothicitalic';
+    src: url('cursorgothic_italic-s.p.00bb2606-webfont.woff2') format('woff2'),
+        url('cursorgothic_italic-s.p.00bb2606-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cursor_gothicregular';
+    src: url('cursorgothic_regular-s.p.a361088d-webfont.woff2') format('woff2'),
+        url('cursorgothic_regular-s.p.a361088d-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
